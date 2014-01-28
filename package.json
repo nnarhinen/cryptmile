@@ -1,0 +1,18 @@
+{
+  "name": "cryptmile",
+  "version": "0.0.1",
+  "description": "A crypting SMTP server with CouchDB backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "author": "Niklas Närhinen <niklas@narhinen.net>",
+  "license": "MIT",
+  "dependencies": {
+    "simplesmtp": "~0.3.18",
+    "mailparser": "~0.4.1"
+  },
+  "devDependencies": {
+    "tap": "~0.4.8"
+  }
+}
