@@ -4,7 +4,7 @@
   "description": "A crypting SMTP server with CouchDB backend",
   "main": "index.js",
   "scripts": {
-    "test": "tap test"
+    "test": "tape test/*.js"
   },
   "author": "Niklas Närhinen <niklas@narhinen.net>",
   "license": "MIT",
@@ -13,6 +13,6 @@
     "mailparser": "~0.4.1"
   },
   "devDependencies": {
-    "tap": "~0.4.8"
+    "tape": "~2.3.2"
   }
 }
