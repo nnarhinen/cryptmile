@@ -10,9 +10,12 @@
   "license": "MIT",
   "dependencies": {
     "simplesmtp": "~0.3.18",
-    "mailparser": "~0.4.1"
+    "mailparser": "~0.4.1",
+    "hyperquest": "~0.2.0",
+    "q": "~1.0.0"
   },
   "devDependencies": {
-    "tape": "~2.3.2"
+    "tape": "~2.3.2",
+    "sinon": "~1.7.3"
   }
 }
