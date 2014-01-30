@@ -12,7 +12,8 @@
     "simplesmtp": "~0.3.18",
     "mailparser": "~0.4.1",
     "hyperquest": "~0.2.0",
-    "q": "~1.0.0"
+    "q": "~1.0.0",
+    "node-forge": "~0.2.28"
   },
   "devDependencies": {
     "tape": "~2.3.2",
